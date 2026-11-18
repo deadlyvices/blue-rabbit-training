@@ -23,33 +23,7 @@ namespace RomanConverter
         {
             InitializeComponent();
 
-            MyType a = new MyType { MyInt = 4, MyString = "Four" };
-            MyType b = new MyType { MyInt = -4, MyString = "Negative Four" };
 
-            b = a;
-
-            object c;
-
-
-            a.MyInt = 5;
-
-            MessageBox.Show(b.MyInt.ToString());
-
-            a.MyString = "Bugger off";
-            MessageBox.Show(b.MyString);
-
-            c = b;
-
-
-            switch (c)
-            {
-                case MyType mt:
-                    MessageBox.Show(mt.MyString);
-                    break;
-                case float f:
-                    MessageBox.Show(f.ToString());
-                    break;
-            }
         }
 
         private void RomanBox_OnTextChanged(object sender, TextChangedEventArgs e)
@@ -102,7 +76,7 @@ namespace RomanConverter
             {
                 //expectation is that the input string has been converted
                 //to uppercase before calling this function
-                switch (digit)
+               switch (digit)
                 {
                     case 'I': return 1;
                     case 'V': return 5;
