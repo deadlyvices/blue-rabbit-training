@@ -39,7 +39,7 @@
             </MenuItem>
         </Menu>
         <TextBlock Grid.Row="1">Enter the Roman Numeral Here</TextBlock>
-            <TextBox Grid.Row ="2" x:Name="RomanBox" TextChanged="RomanBox_OnTextChanged" GotFocus="RomanBox_GotFocus"></TextBox>
+            <TextBox Grid.Row ="2" x:Name="RomanBox" TextChanged="RomanBox_OnTextChanged" GotFocus="RomanBox_GotFocus" Background="{DynamicResource {x:Static SystemColors.AccentColorLight2BrushKey}}"></TextBox>
         <TextBlock Grid.Row ="3" >Enter the Arabic Numeral here</TextBlock>
         <TextBox Grid.Row ="4" x:Name="ArabicBox" TextChanged="ArabicBox_OnTextChanged" FontFamily="Arial" GotFocus="ArabicBox_GotFocus"></TextBox>
         <Button Grid.Row ="5" x:Name="DisplayButton" Content="Display" Click="DisplayButton_Click" HorizontalAlignment="Center" Width="Auto" Height="20" VerticalAlignment="Top"></Button>
