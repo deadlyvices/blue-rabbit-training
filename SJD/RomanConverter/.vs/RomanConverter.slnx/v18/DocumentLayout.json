@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,8 +69,7 @@
               "RelativeToolTip": "RomanConverter\\MainWindow.xaml.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAhwDEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T10:35:42.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T10:35:42.54Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "ToolTip": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\RomanConverter\\RomanConverter\\App.xaml",
               "RelativeToolTip": "RomanConverter\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-14T17:04:26.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:04:26.889Z"
             },
             {
               "$type": "Document",
@@ -138,8 +136,7 @@
               "ToolTip": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\RomanConverter\\RomanConverter\\ControlPanel.xaml",
               "RelativeToolTip": "RomanConverter\\ControlPanel.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-30T17:36:16.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T17:36:16.471Z"
             },
             {
               "$type": "Document",
@@ -161,14 +158,10 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
               "ToolTip": "C:\\Users\\Clyde\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAnwDUAAAAnAAAAAQAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAnwDUAAABLAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T17:27:51.326Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             }
           ]
         }
