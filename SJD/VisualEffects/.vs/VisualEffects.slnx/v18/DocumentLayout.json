@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\VisualEffects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9395D9D8-6F7A-4010-8506-B8A6FCBA11ED}|VisualEffects\\VisualEffects.csproj|c:\\users\\clyde\\dev\\teaching\\sjd\\visualeffects\\visualeffects\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9395D9D8-6F7A-4010-8506-B8A6FCBA11ED}|VisualEffects\\VisualEffects.csproj|solutionrelative:visualeffects\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9395D9D8-6F7A-4010-8506-B8A6FCBA11ED}|VisualEffects\\VisualEffects.csproj|c:\\users\\clyde\\dev\\teaching\\sjd\\visualeffects\\visualeffects\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9395D9D8-6F7A-4010-8506-B8A6FCBA11ED}|VisualEffects\\VisualEffects.csproj|solutionrelative:visualeffects\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\VisualEffects\\VisualEffects\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VisualEffects\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\VisualEffects\\VisualEffects\\MainWindow.xaml",
+              "RelativeToolTip": "VisualEffects\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-08T14:21:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\VisualEffects\\VisualEffects\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisualEffects\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Clyde\\Dev\\Teaching\\SJD\\VisualEffects\\VisualEffects\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VisualEffects\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:21:33.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

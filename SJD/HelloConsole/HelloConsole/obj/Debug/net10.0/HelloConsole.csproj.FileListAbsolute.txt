@@ -1,0 +1,14 @@
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\bin\Debug\net10.0\HelloConsole.exe
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\bin\Debug\net10.0\HelloConsole.deps.json
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\bin\Debug\net10.0\HelloConsole.runtimeconfig.json
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\bin\Debug\net10.0\HelloConsole.dll
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\bin\Debug\net10.0\HelloConsole.pdb
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.AssemblyInfo.cs
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.dll
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\refint\HelloConsole.dll
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.pdb
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\HelloConsole.genruntimeconfig.cache
+C:\Users\Clyde\Dev\Teaching\SJD\HelloConsole\HelloConsole\obj\Debug\net10.0\ref\HelloConsole.dll

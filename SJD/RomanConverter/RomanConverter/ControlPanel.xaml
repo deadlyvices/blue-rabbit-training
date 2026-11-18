@@ -1,0 +1,18 @@
+﻿<Window x:Class="RomanConverter.ControlPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RomanConverter"
+        mc:Ignorable="d"
+        Title="ControlPanel" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="6" />
+        </Style>
+    </Window.Resources>
+    <UniformGrid Rows="3" Columns="3">
+        <Button Name="RomanButton" Click="RomanButton_Click">Roman Converter</Button>
+        <Button Name="FahrenheitButton" Click="FahrenheitButton_Click">Fahrenheit Converter</Button>
+    </UniformGrid>
+</Window>
