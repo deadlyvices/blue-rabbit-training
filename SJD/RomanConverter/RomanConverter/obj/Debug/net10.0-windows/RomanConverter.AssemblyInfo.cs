@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RomanConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c3ae24bde3157a98659d18ea637df1f7b1e5289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d4583dcdf61f9dc39c4dacafec24b0e959d063")]
 [assembly: System.Reflection.AssemblyProductAttribute("RomanConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RomanConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
